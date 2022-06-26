@@ -1,5 +1,5 @@
 # AEQIS
-**AEQIS**[*aikɪs*] stands for "**A**uto**e**ncoder-based **Q**uantum Error M**i**tigation **S**cheme."  
+**AEQIS**[*aikɪs*] stands for "**A**uto**e**ncoder-based **Q**EC Scheme **I**deally Suited for a **S**pecific error model."  
 It named after 'aegis', the shield of Athena.
 
 ## [2022 양자정보경진대회(Quantum Hackathon Korea 2022)](https://github.com/qiskit-community/quantum-hackathon-korea-22)

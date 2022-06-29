@@ -5,10 +5,11 @@ It named after 'aegis', the shield of Athena.
 ## [2022 양자정보경진대회(Quantum Hackathon Korea 2022)](https://github.com/qiskit-community/quantum-hackathon-korea-22)
 🎉2022 양자정보경진대회 참가🎉  
 🎉Quantum Hackathon Korea 2022 Participant🎉
-## Abstract
--study quantum convolution nerural network as a qauntum error correction
--Implemnt it by qiskit
--Compare with shor-code
+
+## TL;DR
+- Qauntum Error correction using QCNN 
+- Implemnt it by qiskit
+- Compare with shor-code
 
 ## Introduction
 In the current noisy intermediate-scale quantum (NISQ) era, quantum processors are not advanced enough to be fault-tolerant. Quantum Processors are highly sensitive to the environment and may face quantum decoherence, losing their quantumness. Ultimate solution is to achieve the sufficient number and coherence time of qubits through material studies. However, this seems unlikely to happen in the near future. Therefore, as an alternative, it is necessary to devise and utilize error correction techniques.
@@ -28,9 +29,10 @@ comparable complexity**
 ## References
 - Iris Cong, Soonwon Choi, and Mikhail D. Lukin. Quantum convolutional neural networks. Nature Physics, 15(12):1273–1278, December 2019.
 
-##Members 
--Yunseo Kim [@yunseo-qleap]
--Inhyuk Oh [@OHINHYUK55]
+## Members 
+- Yunseo Kim [@yunseo-qleap]
+- Inhyuk Oh [@OHINHYUK55]
+
 ## Mentors
--Dr.HwangYongsoo 
+- Dr.HwangYongsoo 
 

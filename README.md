@@ -8,7 +8,7 @@ It named after 'aegis', the shield of Athena.
 
 ## TL;DR
 - Qauntum Error correction using QCNN 
-- Implemnt it by qiskit
+- Implement it by qiskit
 - Compare with shor-code
 
 ## Introduction
